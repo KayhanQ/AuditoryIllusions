@@ -1,0 +1,1 @@
+A harpsichord player produces sound by pressing a key that plucks a string.

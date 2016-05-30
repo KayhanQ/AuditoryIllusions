@@ -1,0 +1,11 @@
+A harpsichord player produces sound by pressing a key that plucks a string.
+
+Difficulty: Hard
+Words: 13
+S: Success
+
+Identifiable words: string
+
+Participant, Intial Score, Post Score
+Abbie,1,9
+Rachel,1,S

@@ -1,0 +1,9 @@
+Sample 1
+Mozart was born on the 27th of January 1756.
+Difficulty: Easy
+Words: 9
+S: Success
+
+Participant,Intial Score, Post Score
+Abbie,1,S
+Rachel,1,S
